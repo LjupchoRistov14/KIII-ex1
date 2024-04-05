@@ -19,3 +19,22 @@ git commit -m "<message>"
 
 7. push changes to git ->
 git push
+
+8. create new branch ->
+git branch <name>
+
+9.  switch to branch ->
+git checkout <name>
+
+10.  merge branch on origin
+git merge origin <name>
+
+12.  merge branch with other branch
+git merge <branch1> <branch2>
+
+13. status about branch ->
+git status
+
+14. info about branches ->
+git log --oneline --decorate
+
